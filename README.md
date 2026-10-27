@@ -381,12 +381,16 @@ cv2.imwrite("Third_Image.jpg", third_img)
 ## Output:
 
 i) Read and Display an Image.
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/e0efdc1f-80dc-472a-8509-eba539075ef8" />
 
 ii) Adjust Image Brightness.
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/b496df40-7bed-4623-9c3d-2c83861c0a44" />
 
 iii) Modify Image Contrast.
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/10b87650-98a8-4162-87eb-e1824b542b54" />
 
 iv) Generate Third Image Using Bitwise Operations.
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/7d15612c-b682-4871-8f57-374645150aa6" />
 
 ## Result:
 
